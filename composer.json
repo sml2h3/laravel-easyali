@@ -1,6 +1,6 @@
 {
     "name": "sml2h3/easy-ali",
-    "type": "composer-plugin",
+    "type": "project",
     "require": {
         "php": ">=5.5"
     },
