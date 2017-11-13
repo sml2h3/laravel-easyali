@@ -2,7 +2,7 @@
     "name": "sml2h3/easy-ali",
     "type": "composer-plugin",
     "require": {
-        "php": "5.5"
+        "php": ">=5.5"
     },
     "license": "MIT",
     "authors": [
