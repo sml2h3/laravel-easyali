@@ -1,5 +1,5 @@
 {
-    "name": "Sml2h3/EasyAli",
+    "name": "sml2h3/easy-ali",
     "type": "composer-plugin",
     "require": {
         "php": "5.5"
