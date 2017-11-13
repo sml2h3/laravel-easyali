@@ -1,6 +1,5 @@
 {
     "name": "sml2h3/easy-ali",
-    "type": "project",
     "require": {
         "php": ">=5.5"
     },
