@@ -1,5 +1,5 @@
 {
-    "name": "sml2h3/EasyAli",
+    "name": "sml2h3/laravel-easyali",
     "require": {
         "php": ">=5.5"
     },
@@ -10,5 +10,10 @@
             "email": "sml2h3@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {
+        "Sml2h3\\EasyAli\\": "vendor/sml2h3/laravel-easyali/src/"
+      }
+    }
 }
